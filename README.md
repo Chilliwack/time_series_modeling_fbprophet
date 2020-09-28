@@ -1,6 +1,6 @@
 # time_series_modeling_fbprophet
 
-**time_series_modeling_fbprophet** - is some time series forecasting analysis work I was doing using Facebook's FB Prophet package https://facebook.github.io/prophet/
+**time_series_modeling_fbprophet** - is a time series forecasting analysis using Facebook's FB Prophet package https://facebook.github.io/prophet/ and website data
 
 https://github.com/Chilliwack/time_series_modeling_fbprophet/blob/master/prophet_example.ipynb
 
